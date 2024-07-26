@@ -1,0 +1,3 @@
+W_REP_PRODUCTOS
+
+Calculate %%cadena as con(%%cadena,VAR1,'''',%%coma)
